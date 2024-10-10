@@ -20,10 +20,48 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Python version 3.12.6 o superior
+   - Editor de Código (En este curso se utiliza Visual Studio Code)
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+3. Crea un ambiente virtual de Python:
+   3.1. Ambiente virtual en Windows:
+
+      ```text
+      pip install virtualenv
+      virtualenv <nombre del ambiente virtual>
+      ```
+
+   3.2. Activar el ambiente virtual de Python en Windows:
+
+   ```text
+      .\<nombre del ambiente virtual>\Scripts\activate
+      ```
+
+   3.3. Ambiente virtual en Mac:
+
+      ```text
+      python -m venv <nombre del ambiente virtual>
+      ```
+
+   3.4. Activar el ambiente virtual de Python en Mac:
+
+      ```text
+      source <nombre del ambiente virtual>/bin/activate
+      ```
+
+4. Instalar las siguientes librerías de Python:
+   - numpy
+   - matplotlib
+   - torch
+   - torchvision
+   - torchaudio
+
+   4.1. Instala las librerías con el comando:
+
+      ```text
+      pip install -r requirements.txt
+      ```
 
 ### Docente
 
