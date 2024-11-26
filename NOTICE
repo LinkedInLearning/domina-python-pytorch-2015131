@@ -5,7 +5,35 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+-------------------  
+**numpy**  
+[https://pypi.org/project/numpy/](https://pypi.org/project/numpy/)  
+License: BSD-3-Clause  
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)  
+-------------------  
+**matplotlib**  
+[https://pypi.org/project/matplotlib/](https://pypi.org/project/matplotlib/)  
+License: Matplotlib  
+[https://matplotlib.org/stable/users/license.html](https://matplotlib.org/stable/users/license.html)  
+-------------------  
+**torch**  
+[https://pypi.org/project/torch/](https://pypi.org/project/torch/)  
+License: BSD-3-Clause  
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)  
+-------------------  
+**torchvision**  
+[https://pypi.org/project/torchvision/](https://pypi.org/project/torchvision/)  
+License: BSD-3-Clause  
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)  
+-------------------  
+**torchaudio**  
+[https://pypi.org/project/torchaudio/](https://pypi.org/project/torchaudio/)  
+License: BSD-3-Clause  
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)  
+-------------------  
+
+This list includes the dependency name, GitHub URLs where applicable, the license for each dependency, and the link to their respective license pages.
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
