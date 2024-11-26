@@ -1,13 +1,12 @@
 # Domina Python: PyTorch
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Python: PyTorch`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Aprende a dominar PyTorch y lleva tus habilidades en deep learning al siguiente nivel. Este curso está diseñado para personas desarrolladoras, personal de ciencia de datos y profesionales en aprendizaje automático interesados en crear y entrenar modelos de redes neuronales. Aborda tanto los fundamentos de PyTorch como aplicaciones avanzadas, proporcionando una comprensión completa y práctica de esta poderosa herramienta. Enfrenta desafíos específicos en deep learning y mejora tus proyectos con técnicas avanzadas. Aumenta tu capacidad para resolver problemas complejos con este enfoque práctico y detallado en PyTorch.
 
 ## Instrucciones
 
@@ -70,7 +69,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-python-pytorch
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFr5_-5pYBlLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732192921882?e=2147483647&v=beta&t=qJR_V_Y5X_P7J2vDw3kC9RLm_KjJLFavqJ7Br7T_XTg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
